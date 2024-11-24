@@ -1,6 +1,8 @@
-Hi,
+**PrusaSlicer profiles for Voron 2.4**
 
-here you can find my Voron 2.4 Prusa Slicer Profiles 
+   here you can find Prusa Slicer Profiles for Voron 2.4 
 
-Prusa Slicer Version 2.8.x
+**Prusaslicer version** 
+
+   Prusa Slicer Version 2.8.x
 
